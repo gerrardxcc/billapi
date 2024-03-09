@@ -3,268 +3,86 @@
     {
       "type": "pay",
       "money": -99,
-      "date": "2022-10-24 10:36:42",
+      "date": "2023-10-24 10:36:42",
       "useFor": "drinks",
       "id": 1
     },
     {
       "type": "pay",
       "money": -88,
-      "date": "2022-10-24 10:37:51",
+      "date": "2023-10-24 10:37:51",
       "useFor": "longdistance",
       "id": 2
     },
     {
       "type": "income",
       "money": 100,
-      "date": "2022-10-22 00:00:00",
+      "date": "2023-10-22 00:00:00",
       "useFor": "bonus",
       "id": 3
     },
     {
       "type": "pay",
       "money": -33,
-      "date": "2022-09-24 16:15:41",
+      "date": "2023-09-24 16:15:41",
       "useFor": "dessert",
       "id": 4
     },
     {
       "type": "pay",
       "money": -56,
-      "date": "2022-10-22T05:37:06.000Z",
+      "date": "2023-10-22T05:37:06.000Z",
       "useFor": "drinks",
       "id": 5
     },
     {
       "type": "pay",
       "money": -888,
-      "date": "2022-10-28T08:21:42.135Z",
+      "date": "2023-10-28T08:21:42.135Z",
       "useFor": "travel",
       "id": 6
     },
     {
       "type": "income",
       "money": 10000,
-      "date": "2023-03-20T06:45:54.004Z",
+      "date": "2024-03-20T06:45:54.004Z",
       "useFor": "salary",
       "id": 7
     },
     {
       "type": "pay",
       "money": -10,
-      "date": "2023-03-22T07:17:12.531Z",
+      "date": "2024-03-22T07:17:12.531Z",
       "useFor": "drinks",
       "id": 8
     },
     {
       "type": "pay",
       "money": -20,
-      "date": "2023-03-22T07:51:20.421Z",
+      "date": "2024-03-22T07:51:20.421Z",
       "useFor": "dessert",
       "id": 9
     },
     {
       "type": "pay",
       "money": -100,
-      "date": "2023-03-22T09:18:12.898Z",
+      "date": "2024-03-22T09:18:12.898Z",
       "useFor": "drinks",
       "id": 17
     },
     {
       "type": "pay",
       "money": -50,
-      "date": "2023-03-23T09:11:23.312Z",
+      "date": "2024-03-23T09:11:23.312Z",
       "useFor": "food",
       "id": 18
     },
     {
       "type": "pay",
       "money": -10,
-      "date": "2023-04-03T11:14:56.036Z",
+      "date": "2024-04-03T11:14:56.036Z",
       "useFor": "food",
       "id": 19
-    },
-    {
-      "type": "pay",
-      "money": -75,
-      "date": "2023-04-10T15:22:18.927Z",
-      "useFor": "entertainment",
-      "id": 20
-    },
-    {
-      "type": "income",
-      "money": 10500,
-      "date": "2023-04-20T08:39:41.152Z",
-      "useFor": "salary",
-      "id": 21
-    },
-    {
-      "type": "pay",
-      "money": -200,
-      "date": "2023-05-01T10:12:34.567Z",
-      "useFor": "rent",
-      "id": 22
-    },
-    {
-      "type": "pay",
-      "money": -30,
-      "date": "2023-05-05T16:27:19.834Z",
-      "useFor": "groceries",
-      "id": 23
-    },
-    {
-      "type": "income",
-      "money": 500,
-      "date": "2023-05-15T09:41:23.912Z",
-      "useFor": "freelance",
-      "id": 24
-    },
-    {
-      "type": "pay",
-      "money": -120,
-      "date": "2023-06-01T14:32:05.678Z",
-      "useFor": "utilities",
-      "id": 25
-    },
-    {
-      "type": "income",
-      "money": 11000,
-      "date": "2023-06-20T07:18:26.491Z",
-      "useFor": "salary",
-      "id": 26
-    },
-    {
-      "type": "pay",
-      "money": -300,
-      "date": "2023-07-10T11:45:37.259Z",
-      "useFor": "vacation",
-      "id": 27
-    },
-    {
-      "type": "pay",
-      "money": -50,
-      "date": "2023-07-15T18:22:49.036Z",
-      "useFor": "entertainment",
-      "id": 28
-    },
-    {
-      "type": "income",
-      "money": 800,
-      "date": "2023-08-01T10:09:17.823Z",
-      "useFor": "freelance",
-      "id": 29
-    },
-    {
-      "type": "pay",
-      "money": -200,
-      "date": "2023-08-15T13:37:24.610Z",
-      "useFor": "rent",
-      "id": 30
-    },
-    {
-      "type": "income",
-      "money": 11500,
-      "date": "2023-09-20T08:22:11.397Z",
-      "useFor": "salary",
-      "id": 31
-    },
-    {
-      "type": "pay",
-      "money": -80,
-      "date": "2023-09-25T16:48:33.184Z",
-      "useFor": "transportation",
-      "id": 32
-    },
-    {
-      "type": "pay",
-      "money": -150,
-      "date": "2023-10-05T19:14:27.971Z",
-      "useFor": "medical",
-      "id": 33
-    },
-    {
-      "type": "income",
-      "money": 1200,
-      "date": "2023-10-15T11:37:49.758Z",
-      "useFor": "freelance",
-      "id": 34
-    },
-    {
-      "type": "pay",
-      "money": -200,
-      "date": "2023-11-01T14:22:06.545Z",
-      "useFor": "rent",
-      "id": 35
-    },
-    {
-      "type": "income",
-      "money": 12000,
-      "date": "2023-11-20T09:35:28.332Z",
-      "useFor": "salary",
-      "id": 36
-    },
-    {
-      "type": "pay",
-      "money": -400,
-      "date": "2023-12-10T12:48:17.119Z",
-      "useFor": "holiday",
-      "id": 37
-    },
-    {
-      "type": "pay",
-      "money": -60,
-      "date": "2023-12-20T17:23:40.906Z",
-      "useFor": "entertainment",
-      "id": 38
-    },
-    {
-      "type": "income",
-      "money": 500,
-      "date": "2024-01-05T10:11:29.693Z",
-      "useFor": "freelance",
-      "id": 39
-    },
-    {
-      "type": "pay",
-      "money": -200,
-      "date": "2024-01-15T13:34:52.480Z",
-      "useFor": "rent",
-      "id": 40
-    },
-    {
-      "type": "income",
-      "money": 12500,
-      "date": "2024-01-20T08:47:15.267Z",
-      "useFor": "salary",
-      "id": 41
-    },
-    {
-      "type": "pay",
-      "money": -90,
-      "date": "2024-02-01T11:22:38.054Z",
-      "useFor": "groceries",
-      "id": 42
-    },
-    {
-      "type": "pay",
-      "money": -250,
-      "date": "2024-02-15T16:09:51.841Z",
-      "useFor": "car",
-      "id": 43
-    },
-    {
-      "type": "income",
-      "money": 800,
-      "date": "2024-03-01T09:35:07.628Z",
-      "useFor": "freelance",
-      "id": 44
-    },
-    {
-      "type": "pay",
-      "money": -200,
-      "date": "2024-03-07T14:48:20.415Z",
-      "useFor": "rent",
-      "id": 45
     }
   ]
 }
